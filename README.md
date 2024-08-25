@@ -1,3 +1,6 @@
+# Web Crawler
+Web Crawler to crawl list of given urls and fetch the content of the page
+
 ## How to run
 ```
 ./fetch https://www.google.com https://www.atlassian.com/software/jira
