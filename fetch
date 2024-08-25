@@ -1,0 +1,5 @@
+#!/bin/bash
+
+docker build -t webcrawler .
+
+docker run --rm webcrawler "$@"
